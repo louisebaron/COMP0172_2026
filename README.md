@@ -6,6 +6,7 @@ This repository contains the lab sessions for the UCL module **COMP0172 AI for B
 ## Labs
 - **Lab 1**: Heart disease prediction (EDA, preprocessing, classical ML)
 - **Lab 2**: Leukemia cell classification (CNNs, transfer learning)
+- **Lab 3**: Federated learning for white blood cell classification (CNNs, federated averaging)
 
 
 ## Usage
